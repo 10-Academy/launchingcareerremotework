@@ -15,7 +15,7 @@ Starting work is the next step in your learning journey.  It is through work tha
 ##What is a Data Science career track?
 Data Science is full of different terms including <Data Science, Data Engineer, Machine Learning Engineer, NLP Engineer, ...>  How do all of these fit together?
 
-One resource that explain this well: https://i.am.ai/roadmap/#introduction
+One resource that explain this well is [IamAI roadmap](https://i.am.ai/roadmap/#introduction)
 
 ## How will I use this competency in my ML career?
 - As part of understanding what role you will take up, you must also decide which roles you will not pursue.  
@@ -25,7 +25,7 @@ One resource that explain this well: https://i.am.ai/roadmap/#introduction
 - When you do your monthly/annual reviews with your employer.
 
 ## Why is it important to learn about this competency before starting my ML career?
-We think that you're here because you want to work in industry.  Academia can be wonderful and so can entrepreneurship, but we believe that the majority of impact that's made in the world is made through those employed in work.  This overview should help you to understand how to launch your career with a special view of remote work, which is becoming increasingly commonplace.
+We think that you're here because you want to work in industry.  Academia can be wonderful and so can entrepreneurship, but we believe that the majority of impact that's made in the world is made through those employed in work.  This overview should help you to understand how to launch your career with a special view of remote work, which is becoming increasingly common-place.
 
 While we have designed 10 Academy such that you will pick up the competencies that you will need to be job-ready, it's important for you to understand what the employer side of the job market expects from employees so that you can maximize how far and how fast you can go.
 
@@ -39,7 +39,6 @@ Our goals are threefold:
 
 ## Examples of how you probably used this competency today without realizing it
 
-## What components make up this competency?
 ### Understanding the ways you can be hired
 * Full-time regular (may be remote)
   * Analogy: Long-term stable relationship.  A commitment is made from both parties to work together and stability provides a place to grow.
@@ -69,7 +68,7 @@ Our goals are threefold:
 ### Understanding which type of job you want to go for - this must be one which actually exists and which is hiring for people with your experience level.  10 Academy is currently training for Machine Learning Engineer and Data Engineer roles.
 If you are here, we are assuming that you are interested in a career in Data Science and, more specfically as either a Machine Learning Engineer or as a Data Engineer.  Great, now how to get started in finding roles that are open?
 
-Your goal is here not to find jobs that you want to apply for, yet - rather, you want to develop your own understanding of what industry is looking for.  A career means that you are doing a job for someone else, and you need to develop an understanding of that that 'someone else' is looking for.  An analogy here is if you are selling airtime to university students.  Before you can effectively sell, you need to figure out a) what airtime packages students want to buy b) how much they are willing to pay c) where do students go to buy airtime.  To be able to sell, you need to understand what your customers are willing to pay for.  To be able to sell, your customers must also have a need for airtime.
+Your goal is here not to find jobs that you want to apply for, yet - rather, you want to develop your own understanding of what industry is looking for.  A career means that you are doing a job for someone else, and you need to develop an understanding of that 'someone else' is looking for.  An analogy here is if you are selling airtime to university students.  Before you can effectively sell, you need to figure out a) what airtime packages students want to buy b) how much they are willing to pay c) where do students go to buy airtime.  To be able to sell, you need to understand what your customers are willing to pay for.  To be able to sell, your customers must also have a need for airtime.
 
 It's important to approach this in a systematic fashion.  How to gather information?
 * Talk to people in your network
@@ -89,7 +88,7 @@ This will be a living document.  Consider doing this study with a partner or a t
 
 ### An idea of what the career trajectory along your chosen path looks like.  What is the 'next job' that you want to go for after you get started, and who (outside of FAANGs) are hiring for these roles.
 
-
+When you get to this stage, it is believed that you have some work experience in a field that interest you and you want to move to the next job. You have to plan ahead, ask yourself questions like "what role can i take", "what are the companies hiring looking for", "how does this new role help me attain my career goals", "what are the commitment involved" etc provides answers to each questions and that will help you take the next step.
 
 ### A profile site that showcases your past projects, your CV, your contact information and which links to your codebase
 CVs are a start, but they are incomplete.  We will provide you with a template to fill in which includes contact information, your CV, link to your GitHub and allows you to showcase projects which are relevant to your chosen choice of career.  This is a CV+ and we've found that employers prefer this to just a CV.
@@ -106,7 +105,7 @@ Your CV for the purposes of work should always be:
   * Do add country codes to phone numbers, add countries to work, write out terms so that they are globally understandable
   * Do not use acronyms that non-nationals may not understand (JKUAT may not be understood outside Kenya)
 * An honest reflection of what you've done in the past
-* Each of your CV entries should follow Bock's formula which he explains here: https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/
+* Each of your CV entries should follow Bock's formula which he explains [here](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/)
 * Only send PDFs
 * Name your file with your name
 * Be ready to tailor aspects of your CV to the job that you are applying for
@@ -121,14 +120,14 @@ Be aware of how people respond to reference requests.
 * Writing a reference letter takes an hour, at least.  Don't underestimate this - make it easier but highlighting what has to be written, by when, and bringing out the key points that you want highlighted.
 
 ### 2 year plan
-Your two-year plan should be a regularly updated document where you lay out what you plan to achieve over the coming months.  We recommend that you think even longer term, using the ideas discussed here: https://hbr.org/2010/07/how-will-you-measure-your-life
+Your two-year plan should be a regularly updated document where you lay out what you plan to achieve over the coming months.  We recommend that you think even longer term, using the ideas discussed [here](https://hbr.org/2010/07/how-will-you-measure-your-life)
 
 Consider each area of your life, as you cannot maximize your career without considering progress in other areas.  Think of your career, your family/relationship, your health (physical and mental) and other areas of life that are important to you.
 
 We suggest you write this down and share it with your mentors and peers for input and feedback.  Update it and use it as a set of milestones to gauge progress.
 
 ### Your GitHub code base
-Showcasing what you have done, by linking to your GitHub, is a high-value way to showcase your capbilities over a longer timeframe.  This allows allows technical hiring managers to scan your code and understand what you are capable of.
+Showcasing what you have done, by linking to your GitHub, is a high-value way to showcase your capbilities over a longer timeframe.  This allows technical hiring managers to scan your code and understand what you are capable of.
 
 ### One or more mentors - they could be peers
 No person is an island - having others that you can discuss approach with, share ideas, ideate on how to solve challenges, learn from and teach to, is valuable.
