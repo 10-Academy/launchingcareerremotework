@@ -12,7 +12,7 @@ Starting work is the next step in your learning journey.  It is through work tha
 - Resume/Cover Letters
 - How to do remote work well
 
-##What is a Data Science career track?
+## What is a Data Science career track?
 Data Science is full of different terms including <Data Science, Data Engineer, Machine Learning Engineer, NLP Engineer, ...>  How do all of these fit together?
 
 One resource that explain this well is [IamAI roadmap](https://i.am.ai/roadmap/#introduction)
