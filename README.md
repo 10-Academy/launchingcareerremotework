@@ -110,6 +110,10 @@ Your CV for the purposes of work should always be:
 * Name your file with your name
 * Be ready to tailor aspects of your CV to the job that you are applying for
 
+A sample CV that we like is [here](https://www.monster.com/career-advice/article/sample-resume-software-engineer-midlevel )
+
+Another sample CV with advice is [here](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/?st=JSH75EOC&sh=97519456)
+
 ### 3 people that have agreed to act as a reference for you.
 Different companies will ask for different reference formats, but have your 3 references on standby for you to provide more information, as needed.  You should get their agreement beforehand and have their full contact information.
 
